@@ -18,7 +18,7 @@ nav{
 }
 nav a{
     text-decoration: none;
-    color: pink;
+    color: blue;
     font-size: 25px;
 }
 
@@ -57,6 +57,7 @@ nav a{
     font-size: 60px;
     color: white;
     text-shadow: 2px 2px 4px #000000;
+    margin-bottom: 50px;
 }
 .memories #photos{
     display: flex;
